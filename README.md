@@ -10,11 +10,10 @@
 <br>
 <br>
 
-- A passionate Self-taught Front-end developer
+- Passionate Back-end Developer
 - Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Currently learning Automation on my own
+- I’m currently open to new job opportunities; here’s [my linkedIn](www.linkedin.com/in/juan-manuel-torices-gonzález-0430201b8)
 
 <br><br>
 
