@@ -11,10 +11,9 @@
 <br>
 
 - Passionate Back-end Developer
-- Playing CTF's at spare time
+- IA Enthusiast
 - Currently learning Automation on my own
-- I’m currently open to new job opportunities; here’s [my linkedIn](www.linkedin.com/in/juan-manuel-torices-gonzález-0430201b8)
-
+- I’m currently open to new job opportunities; here’s [my LinkedIn](https://www.linkedin.com/in/juan-manuel-torices-gonz%C3%A1lez-0430201b8)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
